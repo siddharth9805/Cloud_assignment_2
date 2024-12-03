@@ -209,6 +209,39 @@ Follow these steps to set up Docker on an Amazon Linux 2 EC2 instance:
    ```
 ---
 
+## Progress of the Work
+
+Below are the snapshots representing the progress of the project:
+
+### Spark Execution Logs
+![Spark Execution Logs](screenshots/ss1.png)
+
+### Spark Submit Output
+![Spark Submit Output](screenshots/ss2.png)
+
+### Docker Build Process
+![Docker Build Process](screenshots/ss3.png)
+
+### Spark Job Details
+![Spark Job Details](screenshots/ss4.png)
+
+### Spark Master Overview
+![Spark Master Overview](screenshots/ss5.png)
+
+### AWS EC2 Instances
+![AWS EC2 Instances](screenshots/ss6.png)
+
+### DockerHub Repository
+![DockerHub Repository](screenshots/ss7.png)
+
+### Docker Push Progress
+![Docker Push Progress](screenshots/ss8.png)
+
+### Docker Pull Progress
+![Docker Pull Progress](screenshots/ss9.png)
+
+---
+
 ## Contributors
 - Siddharth Umachandar - Developer and Maintainer
 
