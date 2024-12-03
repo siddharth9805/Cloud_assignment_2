@@ -1,4 +1,4 @@
-```
+
 # Wine Quality Prediction With Spark
 
 ---
@@ -13,9 +13,6 @@
 5. [Usage Instructions](#usage-instructions)
 6. [Contributors](#contributors)
 7. [License](#license)
-
-```
-
 ---
 
 ## Introduction
